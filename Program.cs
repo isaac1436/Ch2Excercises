@@ -1,4 +1,4 @@
-﻿class Ch2Exercises
+﻿class Exercise1_2
 {
     static void Main(string[] args)
     {
@@ -13,18 +13,10 @@
 
         uint @uint = 970700000; ulong @ulong = 123456789123456789;
 
-        exercise 2
+        //exercise 2
         float @float = 5f; float @float1 = -5.01f; float @float3 = 12.345f; float @float4 = 8923.1234857f;
 
         double @double = 34.567839023d; decimal @decimal = 3456.091124875956542151256683467m;
-
-
-
-
-
-
-
-
 
 
     }

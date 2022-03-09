@@ -2,8 +2,8 @@
     static void Main(string[] args)
     {
         //Exercise 4
-        int @hex = 0x100;
-        Console.WriteLine(@hex + "\n\n");
+        int @hex= 0x100;
+        Console.WriteLine( (@hex) + "\n\n");
 
         //Exercise 5
         char @char = '\u0072';
